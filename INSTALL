@@ -1,0 +1,9 @@
+Building GET
+
+See doc/readme-qt.rst for instructions on building GET QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GET.
+
+See doc/build-*.txt for instructions on building GETd,
+the intended-for-services, no-graphical-interface, reference
+implementation of GET.
